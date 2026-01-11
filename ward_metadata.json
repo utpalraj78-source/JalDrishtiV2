@@ -1,0 +1,1787 @@
+{
+  "405": {
+    "ward_no": "CANT_1",
+    "drain_capacity": 124,
+    "imperviousness": 0.943,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "830": {
+    "ward_no": "CANT_2",
+    "drain_capacity": 50,
+    "imperviousness": 0.966,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "139": {
+    "ward_no": "CANT_4",
+    "drain_capacity": 178,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "25": {
+    "ward_no": "CANT_5",
+    "drain_capacity": 70,
+    "imperviousness": 0.924,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "718": {
+    "ward_no": "CANT_6",
+    "drain_capacity": 112,
+    "imperviousness": 0.854,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "257": {
+    "ward_no": "CANT_7",
+    "drain_capacity": 140,
+    "imperviousness": 0.874,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "269": {
+    "ward_no": "CANT_8",
+    "drain_capacity": 54,
+    "imperviousness": 0.879,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "545": {
+    "ward_no": "165",
+    "drain_capacity": 143,
+    "imperviousness": 0.938,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "812": {
+    "ward_no": "NDMC_1",
+    "drain_capacity": 72,
+    "imperviousness": 0.956,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "929": {
+    "ward_no": "NDMC_2",
+    "drain_capacity": 69,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "401": {
+    "ward_no": "NDMC_3",
+    "drain_capacity": 69,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "411": {
+    "ward_no": "NDMC_4",
+    "drain_capacity": 73,
+    "imperviousness": 0.95,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "155": {
+    "ward_no": "NDMC_5",
+    "drain_capacity": 141,
+    "imperviousness": 0.889,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "944": {
+    "ward_no": "NDMC_7",
+    "drain_capacity": 238,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "562": {
+    "ward_no": "NDMC_8",
+    "drain_capacity": 136,
+    "imperviousness": 0.959,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "803": {
+    "ward_no": "NDMC_9",
+    "drain_capacity": 50,
+    "imperviousness": 0.871,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "504": {
+    "ward_no": "NDMC_6",
+    "drain_capacity": 76,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "88": {
+    "ward_no": "80",
+    "drain_capacity": 50,
+    "imperviousness": 0.957,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "623": {
+    "ward_no": "81",
+    "drain_capacity": 66,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "993": {
+    "ward_no": "82",
+    "drain_capacity": 129,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "74": {
+    "ward_no": "175",
+    "drain_capacity": 75,
+    "imperviousness": 0.96,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "35": {
+    "ward_no": "85",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "973": {
+    "ward_no": "108",
+    "drain_capacity": 50,
+    "imperviousness": 0.89,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "388": {
+    "ward_no": "109",
+    "drain_capacity": 141,
+    "imperviousness": 0.965,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "521": {
+    "ward_no": "11",
+    "drain_capacity": 118,
+    "imperviousness": 0.918,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "2": {
+    "ward_no": "48",
+    "drain_capacity": 125,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "419": {
+    "ward_no": "118",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "855": {
+    "ward_no": "119",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "895": {
+    "ward_no": "120",
+    "drain_capacity": 89,
+    "imperviousness": 0.968,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "942": {
+    "ward_no": "133",
+    "drain_capacity": 60,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "120": {
+    "ward_no": "134",
+    "drain_capacity": 59,
+    "imperviousness": 0.925,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "766": {
+    "ward_no": "232",
+    "drain_capacity": 98,
+    "imperviousness": 0.956,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "291": {
+    "ward_no": "64",
+    "drain_capacity": 132,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "517": {
+    "ward_no": "241",
+    "drain_capacity": 168,
+    "imperviousness": 0.959,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "347": {
+    "ward_no": "242",
+    "drain_capacity": 64,
+    "imperviousness": 0.934,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "844": {
+    "ward_no": "243",
+    "drain_capacity": 163,
+    "imperviousness": 0.935,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "802": {
+    "ward_no": "244",
+    "drain_capacity": 100,
+    "imperviousness": 0.938,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "175": {
+    "ward_no": "245",
+    "drain_capacity": 80,
+    "imperviousness": 0.936,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "573": {
+    "ward_no": "246",
+    "drain_capacity": 91,
+    "imperviousness": 0.97,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "262": {
+    "ward_no": "247",
+    "drain_capacity": 52,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "130": {
+    "ward_no": "248",
+    "drain_capacity": 50,
+    "imperviousness": 0.949,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "133": {
+    "ward_no": "249",
+    "drain_capacity": 105,
+    "imperviousness": 0.928,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "967": {
+    "ward_no": "106",
+    "drain_capacity": 129,
+    "imperviousness": 0.935,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "692": {
+    "ward_no": "252",
+    "drain_capacity": 116,
+    "imperviousness": 0.95,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "857": {
+    "ward_no": "255",
+    "drain_capacity": 157,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "782": {
+    "ward_no": "136",
+    "drain_capacity": 117,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "410": {
+    "ward_no": "32",
+    "drain_capacity": 131,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "65": {
+    "ward_no": "258",
+    "drain_capacity": 75,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "906": {
+    "ward_no": "259",
+    "drain_capacity": 104,
+    "imperviousness": 0.925,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "284": {
+    "ward_no": "260",
+    "drain_capacity": 100,
+    "imperviousness": 0.932,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "195": {
+    "ward_no": "234",
+    "drain_capacity": 66,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "109": {
+    "ward_no": "262",
+    "drain_capacity": 131,
+    "imperviousness": 0.942,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "735": {
+    "ward_no": "263",
+    "drain_capacity": 60,
+    "imperviousness": 0.934,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "719": {
+    "ward_no": "264",
+    "drain_capacity": 82,
+    "imperviousness": 0.978,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "877": {
+    "ward_no": "265",
+    "drain_capacity": 111,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "853": {
+    "ward_no": "266",
+    "drain_capacity": 83,
+    "imperviousness": 0.94,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "722": {
+    "ward_no": "268",
+    "drain_capacity": 112,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "752": {
+    "ward_no": "55",
+    "drain_capacity": 50,
+    "imperviousness": 0.974,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "610": {
+    "ward_no": "173",
+    "drain_capacity": 69,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "10": {
+    "ward_no": "272",
+    "drain_capacity": 111,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "97": {
+    "ward_no": "58",
+    "drain_capacity": 50,
+    "imperviousness": 0.947,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "320": {
+    "ward_no": "156",
+    "drain_capacity": 108,
+    "imperviousness": 0.889,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "331": {
+    "ward_no": "107",
+    "drain_capacity": 127,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "507": {
+    "ward_no": "88",
+    "drain_capacity": 50,
+    "imperviousness": 0.885,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "870": {
+    "ward_no": "161",
+    "drain_capacity": 148,
+    "imperviousness": 0.971,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "299": {
+    "ward_no": "162",
+    "drain_capacity": 56,
+    "imperviousness": 0.957,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "267": {
+    "ward_no": "159",
+    "drain_capacity": 55,
+    "imperviousness": 0.909,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "753": {
+    "ward_no": "166",
+    "drain_capacity": 100,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "147": {
+    "ward_no": "168",
+    "drain_capacity": 50,
+    "imperviousness": 0.948,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "576": {
+    "ward_no": "171",
+    "drain_capacity": 50,
+    "imperviousness": 0.974,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "483": {
+    "ward_no": "180",
+    "drain_capacity": 93,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "469": {
+    "ward_no": "181",
+    "drain_capacity": 57,
+    "imperviousness": 0.874,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "129": {
+    "ward_no": "182",
+    "drain_capacity": 53,
+    "imperviousness": 0.924,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "336": {
+    "ward_no": "208",
+    "drain_capacity": 140,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "234": {
+    "ward_no": "184",
+    "drain_capacity": 111,
+    "imperviousness": 0.91,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "584": {
+    "ward_no": "185",
+    "drain_capacity": 102,
+    "imperviousness": 0.893,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "460": {
+    "ward_no": "187",
+    "drain_capacity": 143,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "975": {
+    "ward_no": "188",
+    "drain_capacity": 50,
+    "imperviousness": 0.903,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "547": {
+    "ward_no": "189",
+    "drain_capacity": 115,
+    "imperviousness": 0.963,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "977": {
+    "ward_no": "190",
+    "drain_capacity": 125,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "96": {
+    "ward_no": "191",
+    "drain_capacity": 166,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "740": {
+    "ward_no": "223",
+    "drain_capacity": 88,
+    "imperviousness": 0.905,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "472": {
+    "ward_no": "194",
+    "drain_capacity": 215,
+    "imperviousness": 0.857,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "5": {
+    "ward_no": "195",
+    "drain_capacity": 79,
+    "imperviousness": 0.954,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "116": {
+    "ward_no": "196",
+    "drain_capacity": 76,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "536": {
+    "ward_no": "197",
+    "drain_capacity": 178,
+    "imperviousness": 0.956,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "468": {
+    "ward_no": "198",
+    "drain_capacity": 63,
+    "imperviousness": 0.961,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "920": {
+    "ward_no": "199",
+    "drain_capacity": 219,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "335": {
+    "ward_no": "215",
+    "drain_capacity": 84,
+    "imperviousness": 0.87,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "599": {
+    "ward_no": "201",
+    "drain_capacity": 77,
+    "imperviousness": 0.867,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "457": {
+    "ward_no": "15",
+    "drain_capacity": 82,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "21": {
+    "ward_no": "203",
+    "drain_capacity": 83,
+    "imperviousness": 0.934,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "70": {
+    "ward_no": "13",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "787": {
+    "ward_no": "206",
+    "drain_capacity": 118,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "945": {
+    "ward_no": "84",
+    "drain_capacity": 50,
+    "imperviousness": 0.926,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "905": {
+    "ward_no": "86",
+    "drain_capacity": 88,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "34": {
+    "ward_no": "87",
+    "drain_capacity": 50,
+    "imperviousness": 0.899,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "20": {
+    "ward_no": "89",
+    "drain_capacity": 77,
+    "imperviousness": 0.957,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "406": {
+    "ward_no": "146",
+    "drain_capacity": 102,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "415": {
+    "ward_no": "150",
+    "drain_capacity": 50,
+    "imperviousness": 0.973,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "978": {
+    "ward_no": "151",
+    "drain_capacity": 89,
+    "imperviousness": 0.953,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "788": {
+    "ward_no": "152",
+    "drain_capacity": 105,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "554": {
+    "ward_no": "174",
+    "drain_capacity": 92,
+    "imperviousness": 0.979,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "933": {
+    "ward_no": "176",
+    "drain_capacity": 70,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "228": {
+    "ward_no": "207",
+    "drain_capacity": 147,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "673": {
+    "ward_no": "231",
+    "drain_capacity": 127,
+    "imperviousness": 0.914,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "453": {
+    "ward_no": "235",
+    "drain_capacity": 89,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "297": {
+    "ward_no": "236",
+    "drain_capacity": 79,
+    "imperviousness": 0.963,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "759": {
+    "ward_no": "237",
+    "drain_capacity": 165,
+    "imperviousness": 0.951,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "169": {
+    "ward_no": "238",
+    "drain_capacity": 88,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "641": {
+    "ward_no": "239",
+    "drain_capacity": 116,
+    "imperviousness": 0.943,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "998": {
+    "ward_no": "240",
+    "drain_capacity": 195,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "826": {
+    "ward_no": "103",
+    "drain_capacity": 50,
+    "imperviousness": 0.889,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "108": {
+    "ward_no": "96",
+    "drain_capacity": 138,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "520": {
+    "ward_no": "97",
+    "drain_capacity": 99,
+    "imperviousness": 0.905,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "372": {
+    "ward_no": "33",
+    "drain_capacity": 96,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "191": {
+    "ward_no": "122",
+    "drain_capacity": 58,
+    "imperviousness": 0.934,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "832": {
+    "ward_no": "2",
+    "drain_capacity": 152,
+    "imperviousness": 0.908,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "893": {
+    "ward_no": "125",
+    "drain_capacity": 213,
+    "imperviousness": 0.97,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "383": {
+    "ward_no": "69",
+    "drain_capacity": 127,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "619": {
+    "ward_no": "267",
+    "drain_capacity": 50,
+    "imperviousness": 0.955,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "244": {
+    "ward_no": "75",
+    "drain_capacity": 66,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "463": {
+    "ward_no": "76",
+    "drain_capacity": 115,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "639": {
+    "ward_no": "77",
+    "drain_capacity": 84,
+    "imperviousness": 0.95,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "489": {
+    "ward_no": "131",
+    "drain_capacity": 50,
+    "imperviousness": 0.963,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "820": {
+    "ward_no": "79",
+    "drain_capacity": 124,
+    "imperviousness": 0.954,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "689": {
+    "ward_no": "114",
+    "drain_capacity": 134,
+    "imperviousness": 0.93,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "18": {
+    "ward_no": "115",
+    "drain_capacity": 103,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "606": {
+    "ward_no": "116",
+    "drain_capacity": 104,
+    "imperviousness": 0.911,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "926": {
+    "ward_no": "126",
+    "drain_capacity": 207,
+    "imperviousness": 0.912,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "85": {
+    "ward_no": "128",
+    "drain_capacity": 58,
+    "imperviousness": 0.92,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "385": {
+    "ward_no": "129",
+    "drain_capacity": 151,
+    "imperviousness": 0.859,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "891": {
+    "ward_no": "137",
+    "drain_capacity": 128,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "636": {
+    "ward_no": "209",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "403": {
+    "ward_no": "121",
+    "drain_capacity": 52,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "644": {
+    "ward_no": "210",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "734": {
+    "ward_no": "211",
+    "drain_capacity": 113,
+    "imperviousness": 0.964,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "640": {
+    "ward_no": "212",
+    "drain_capacity": 50,
+    "imperviousness": 0.92,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "745": {
+    "ward_no": "90",
+    "drain_capacity": 116,
+    "imperviousness": 0.929,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "785": {
+    "ward_no": "214",
+    "drain_capacity": 100,
+    "imperviousness": 0.952,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "414": {
+    "ward_no": "216",
+    "drain_capacity": 106,
+    "imperviousness": 0.976,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "509": {
+    "ward_no": "217",
+    "drain_capacity": 153,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "27": {
+    "ward_no": "68",
+    "drain_capacity": 116,
+    "imperviousness": 0.913,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "208": {
+    "ward_no": "66",
+    "drain_capacity": 203,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "357": {
+    "ward_no": "65",
+    "drain_capacity": 50,
+    "imperviousness": 0.937,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "574": {
+    "ward_no": "63",
+    "drain_capacity": 78,
+    "imperviousness": 0.933,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "631": {
+    "ward_no": "61",
+    "drain_capacity": 144,
+    "imperviousness": 0.943,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "71": {
+    "ward_no": "60",
+    "drain_capacity": 175,
+    "imperviousness": 0.954,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "254": {
+    "ward_no": "59",
+    "drain_capacity": 149,
+    "imperviousness": 0.967,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "669": {
+    "ward_no": "57",
+    "drain_capacity": 99,
+    "imperviousness": 0.97,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "150": {
+    "ward_no": "56",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "665": {
+    "ward_no": "54",
+    "drain_capacity": 96,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "963": {
+    "ward_no": "53",
+    "drain_capacity": 77,
+    "imperviousness": 0.926,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "983": {
+    "ward_no": "52",
+    "drain_capacity": 73,
+    "imperviousness": 0.91,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "816": {
+    "ward_no": "51",
+    "drain_capacity": 50,
+    "imperviousness": 0.94,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "626": {
+    "ward_no": "50",
+    "drain_capacity": 198,
+    "imperviousness": 0.952,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "442": {
+    "ward_no": "46",
+    "drain_capacity": 94,
+    "imperviousness": 0.939,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "571": {
+    "ward_no": "45",
+    "drain_capacity": 63,
+    "imperviousness": 0.979,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "919": {
+    "ward_no": "44",
+    "drain_capacity": 86,
+    "imperviousness": 0.835,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "151": {
+    "ward_no": "43",
+    "drain_capacity": 68,
+    "imperviousness": 0.84,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "720": {
+    "ward_no": "42",
+    "drain_capacity": 128,
+    "imperviousness": 0.966,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "435": {
+    "ward_no": "41",
+    "drain_capacity": 51,
+    "imperviousness": 0.954,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "962": {
+    "ward_no": "40",
+    "drain_capacity": 50,
+    "imperviousness": 0.96,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "275": {
+    "ward_no": "37",
+    "drain_capacity": 90,
+    "imperviousness": 0.948,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "544": {
+    "ward_no": "35",
+    "drain_capacity": 67,
+    "imperviousness": 0.896,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "936": {
+    "ward_no": "29",
+    "drain_capacity": 110,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "258": {
+    "ward_no": "27",
+    "drain_capacity": 99,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "486": {
+    "ward_no": "25",
+    "drain_capacity": 218,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "185": {
+    "ward_no": "24",
+    "drain_capacity": 50,
+    "imperviousness": 0.94,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "200": {
+    "ward_no": "230",
+    "drain_capacity": 169,
+    "imperviousness": 0.885,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "770": {
+    "ward_no": "229",
+    "drain_capacity": 50,
+    "imperviousness": 0.978,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "454": {
+    "ward_no": "228",
+    "drain_capacity": 77,
+    "imperviousness": 0.919,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "646": {
+    "ward_no": "227",
+    "drain_capacity": 70,
+    "imperviousness": 0.907,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "911": {
+    "ward_no": "225",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "609": {
+    "ward_no": "222",
+    "drain_capacity": 111,
+    "imperviousness": 0.964,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "928": {
+    "ward_no": "22",
+    "drain_capacity": 125,
+    "imperviousness": 0.901,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "746": {
+    "ward_no": "155",
+    "drain_capacity": 98,
+    "imperviousness": 0.923,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "428": {
+    "ward_no": "218",
+    "drain_capacity": 66,
+    "imperviousness": 0.979,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "596": {
+    "ward_no": "124",
+    "drain_capacity": 104,
+    "imperviousness": 0.959,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "317": {
+    "ward_no": "147",
+    "drain_capacity": 112,
+    "imperviousness": 0.905,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "918": {
+    "ward_no": "132",
+    "drain_capacity": 67,
+    "imperviousness": 0.952,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "591": {
+    "ward_no": "30",
+    "drain_capacity": 69,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "650": {
+    "ward_no": "95",
+    "drain_capacity": 126,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "41": {
+    "ward_no": "94",
+    "drain_capacity": 50,
+    "imperviousness": 0.898,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "757": {
+    "ward_no": "92",
+    "drain_capacity": 118,
+    "imperviousness": 0.92,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "37": {
+    "ward_no": "91",
+    "drain_capacity": 124,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "220": {
+    "ward_no": "70",
+    "drain_capacity": 84,
+    "imperviousness": 0.934,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "696": {
+    "ward_no": "4",
+    "drain_capacity": 114,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "630": {
+    "ward_no": "3",
+    "drain_capacity": 86,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "12": {
+    "ward_no": "26",
+    "drain_capacity": 50,
+    "imperviousness": 0.9,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "990": {
+    "ward_no": "9",
+    "drain_capacity": 116,
+    "imperviousness": 0.939,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "535": {
+    "ward_no": "172",
+    "drain_capacity": 162,
+    "imperviousness": 0.846,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "519": {
+    "ward_no": "6",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "137": {
+    "ward_no": "28",
+    "drain_capacity": 125,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "657": {
+    "ward_no": "19",
+    "drain_capacity": 109,
+    "imperviousness": 0.962,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "914": {
+    "ward_no": "17",
+    "drain_capacity": 50,
+    "imperviousness": 0.909,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "348": {
+    "ward_no": "16",
+    "drain_capacity": 103,
+    "imperviousness": 0.926,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "196": {
+    "ward_no": "144",
+    "drain_capacity": 86,
+    "imperviousness": 0.901,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "939": {
+    "ward_no": "143",
+    "drain_capacity": 78,
+    "imperviousness": 0.922,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "378": {
+    "ward_no": "141",
+    "drain_capacity": 143,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "621": {
+    "ward_no": "14",
+    "drain_capacity": 50,
+    "imperviousness": 0.964,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "940": {
+    "ward_no": "12",
+    "drain_capacity": 109,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "75": {
+    "ward_no": "10",
+    "drain_capacity": 105,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "737": {
+    "ward_no": "101",
+    "drain_capacity": 110,
+    "imperviousness": 0.972,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "497": {
+    "ward_no": "102",
+    "drain_capacity": 194,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "404": {
+    "ward_no": "105",
+    "drain_capacity": 109,
+    "imperviousness": 0.955,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "298": {
+    "ward_no": "110",
+    "drain_capacity": 50,
+    "imperviousness": 0.944,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "386": {
+    "ward_no": "111",
+    "drain_capacity": 226,
+    "imperviousness": 0.976,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "614": {
+    "ward_no": "112",
+    "drain_capacity": 92,
+    "imperviousness": 0.929,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "63": {
+    "ward_no": "224",
+    "drain_capacity": 72,
+    "imperviousness": 0.97,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "715": {
+    "ward_no": "23",
+    "drain_capacity": 50,
+    "imperviousness": 0.885,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "736": {
+    "ward_no": "31",
+    "drain_capacity": 50,
+    "imperviousness": 0.937,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "968": {
+    "ward_no": "34",
+    "drain_capacity": 87,
+    "imperviousness": 0.936,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "568": {
+    "ward_no": "39",
+    "drain_capacity": 140,
+    "imperviousness": 0.942,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "487": {
+    "ward_no": "49",
+    "drain_capacity": 192,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "670": {
+    "ward_no": "18",
+    "drain_capacity": 50,
+    "imperviousness": 0.976,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "106": {
+    "ward_no": "254",
+    "drain_capacity": 86,
+    "imperviousness": 0.895,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "850": {
+    "ward_no": "139",
+    "drain_capacity": 100,
+    "imperviousness": 0.958,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "407": {
+    "ward_no": "99",
+    "drain_capacity": 100,
+    "imperviousness": 0.949,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "143": {
+    "ward_no": "47",
+    "drain_capacity": 94,
+    "imperviousness": 0.958,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "772": {
+    "ward_no": "145",
+    "drain_capacity": 169,
+    "imperviousness": 0.817,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "655": {
+    "ward_no": "226",
+    "drain_capacity": 114,
+    "imperviousness": 0.937,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "593": {
+    "ward_no": "104",
+    "drain_capacity": 50,
+    "imperviousness": 0.911,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "897": {
+    "ward_no": "149",
+    "drain_capacity": 81,
+    "imperviousness": 0.947,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "970": {
+    "ward_no": "167",
+    "drain_capacity": 146,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "957": {
+    "ward_no": "163",
+    "drain_capacity": 64,
+    "imperviousness": 0.914,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "840": {
+    "ward_no": "164",
+    "drain_capacity": 73,
+    "imperviousness": 0.974,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "924": {
+    "ward_no": "158",
+    "drain_capacity": 82,
+    "imperviousness": 0.939,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "6": {
+    "ward_no": "130",
+    "drain_capacity": 135,
+    "imperviousness": 0.972,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "694": {
+    "ward_no": "38",
+    "drain_capacity": 182,
+    "imperviousness": 0.9,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "447": {
+    "ward_no": "169",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "311": {
+    "ward_no": "1",
+    "drain_capacity": 73,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "141": {
+    "ward_no": "5",
+    "drain_capacity": 165,
+    "imperviousness": 0.862,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "179": {
+    "ward_no": "7",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "138": {
+    "ward_no": "220",
+    "drain_capacity": 50,
+    "imperviousness": 0.923,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "256": {
+    "ward_no": "221",
+    "drain_capacity": 148,
+    "imperviousness": 0.948,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "128": {
+    "ward_no": "233",
+    "drain_capacity": 81,
+    "imperviousness": 0.947,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "807": {
+    "ward_no": "251",
+    "drain_capacity": 207,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "624": {
+    "ward_no": "253",
+    "drain_capacity": 108,
+    "imperviousness": 0.941,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "711": {
+    "ward_no": "177",
+    "drain_capacity": 109,
+    "imperviousness": 0.901,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "937": {
+    "ward_no": "178",
+    "drain_capacity": 200,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "158": {
+    "ward_no": "170",
+    "drain_capacity": 112,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "774": {
+    "ward_no": "186",
+    "drain_capacity": 50,
+    "imperviousness": 0.976,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "236": {
+    "ward_no": "179",
+    "drain_capacity": 50,
+    "imperviousness": 0.886,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "971": {
+    "ward_no": "205",
+    "drain_capacity": 82,
+    "imperviousness": 0.96,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "916": {
+    "ward_no": "138",
+    "drain_capacity": 69,
+    "imperviousness": 0.88,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "389": {
+    "ward_no": "20",
+    "drain_capacity": 167,
+    "imperviousness": 0.906,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "271": {
+    "ward_no": "123",
+    "drain_capacity": 71,
+    "imperviousness": 0.956,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "637": {
+    "ward_no": "113",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "484": {
+    "ward_no": "153",
+    "drain_capacity": 98,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "903": {
+    "ward_no": "93",
+    "drain_capacity": 50,
+    "imperviousness": 0.93,
+    "area": 10000.0,
+    "elevation": "Sink"
+  },
+  "214": {
+    "ward_no": "36",
+    "drain_capacity": 50,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Low"
+  },
+  "656": {
+    "ward_no": "73",
+    "drain_capacity": 153,
+    "imperviousness": 0.956,
+    "area": 10000.0,
+    "elevation": "High-Density"
+  },
+  "279": {
+    "ward_no": "270",
+    "drain_capacity": 77,
+    "imperviousness": 0.98,
+    "area": 10000.0,
+    "elevation": "Moderate"
+  },
+  "98": {
+    "ward_no": "142",
+    "drain_capacity": 121,
+    "imperviousness": 0.96,
+    "area": 10000.0,
+    "elevation": "Low"
+  }
+}
