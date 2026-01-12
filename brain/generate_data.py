@@ -8,8 +8,10 @@ import numpy as np
 import json
 import os
 
-# Path to GeoJSON (relative to brain folder)
-GEOJSON_PATH = "../public/data/delhi-wards.geojson"
+# Path to GeoJSON (try local first, then relative)
+GEOJSON_PATH = "delhi-wards.geojson"
+if not os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), GEOJSON_PATH)):
+    GEOJSON_PATH = "../public/data/delhi-wards.geojson"
 
 # 1. Load Wards from GeoJSON
 def load_wards_from_geojson():

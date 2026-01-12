@@ -10,6 +10,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+# Generate data and train model during build
+# This ensures self-contained image without needing to check in large .pkl files
+RUN python generate_data.py && python train_model.py
+
 # Expose port 8000
 EXPOSE 8000
 
