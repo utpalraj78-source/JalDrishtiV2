@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: .
+    ports:
+      - "3000:3000"
+    restart: always
+    environment:
+      # URL for the client browser to reach the backend
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: ./brain
+    ports:
+      - "8000:8000"
+    restart: always
+    environment:
+      # Add your Azure keys here or in a .env file
+      - AZURE_CV_KEY=${AZURE_CV_KEY}
+      - AZURE_CV_ENDPOINT=${AZURE_CV_ENDPOINT}

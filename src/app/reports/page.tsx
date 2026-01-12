@@ -119,7 +119,8 @@ export default function ReportsPage() {
                 ai_analysis: aiResult
             };
 
-            const submitRes = await fetch("http://localhost:8000/reports", {
+            const apiUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+            const submitRes = await fetch(`${apiUrl}/reports`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(reportPayload)
