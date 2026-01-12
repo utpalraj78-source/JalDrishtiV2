@@ -291,7 +291,7 @@ export function MapboxView({ rainfallIntensity, liveReports }: MapboxViewProps) 
                 (m.getSource("reports-cluster") as mapboxgl.GeoJSONSource).getClusterExpansionZoom(
                     clusterId,
                     (err, zoom) => {
-                        if (err || !map.current) return;
+                        if (err || !map.current || zoom === null || zoom === undefined) return;
                         map.current.easeTo({ center: (features[0].geometry as any).coordinates, zoom: zoom });
                     }
                 );
